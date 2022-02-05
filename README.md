@@ -4,7 +4,8 @@ I'm Alex. I'm a photographer and videographer from Finland, who recently started
 Follow my journey from zero to hopefully hero! (or 1? isn't that how coding works?)
 
 A little about me:
-- 🌱&nbsp;&nbsp; I’m currently learning `.swift`
+- 🌱&nbsp;&nbsp; Currently learning `.swift`
+- ⚙️&nbsp;&nbsp; Want to learn: `.java`
 - 📍&nbsp;&nbsp; I live in an island.
 - 🤓&nbsp;&nbsp; Big Star Wars fan.
 
