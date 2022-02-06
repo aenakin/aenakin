@@ -6,7 +6,7 @@ Follow my journey from zero to... **1** *(get it? because coding? zeros and ones
 
 A little about me:
 - 🌱&nbsp;&nbsp; Currently learning `.swift`
-- ⚙️&nbsp;&nbsp; Want to learn: `.java`
+- ⚙️&nbsp;&nbsp; Want to learn: `.java`, `.cs`, `.cpp` `.python`...
 - 📍&nbsp;&nbsp; I live in an island.
 - 🤓&nbsp;&nbsp; Big Star Wars fan.
 - 😅&nbsp;&nbsp; My sense of humour is... *yeah*.
