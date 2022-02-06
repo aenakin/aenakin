@@ -1,13 +1,15 @@
-# Hi there 👋👨‍💻
-I'm Alex. I'm a photographer and videographer from Finland, who recently started learning how to code. 🔰 I have never coded anything before, and always have wanted to learn, so for 2022 I decided that it is time to!
+# Hi there 👋
+I'm Alex. I'm a photographer and videographer from Finland, who recently started learning how to code. 👨‍💻 </br>
+I have never coded anything before, and always have wanted to learn, so for 2022 I decided that it is time to!
 
-Follow my journey from zero to hopefully hero! (or 1? isn't that how coding works?)
+Follow my journey from zero to... **1** *(get it? because coding? zeros and ones? no...? I'll see myself out...🥲)*
 
 A little about me:
 - 🌱&nbsp;&nbsp; Currently learning `.swift`
 - ⚙️&nbsp;&nbsp; Want to learn: `.java`
 - 📍&nbsp;&nbsp; I live in an island.
 - 🤓&nbsp;&nbsp; Big Star Wars fan.
+- 😅&nbsp;&nbsp; My sense of humour is... *yeah*.
 
 <!---
 - 👋&nbsp;&nbsp; 
